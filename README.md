@@ -1,2 +1,2 @@
 # Project
-DESENVOLVIMENTO DE PROJETO 4 SEMESTRE UNIP
+Desenvolvimento de projeto com base nos conhecimentos fornecidos pela disciplina de Projeto de Sistemas Orientado a Objetos.
